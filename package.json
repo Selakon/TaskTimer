@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Selakon/TaskTimer/issues"
   },
-  "homepage": "https://github.com/Selakon/TaskTimer"
+  "homepage": "https://github.com/Selakon/TaskTimer",
+  "devDependencies": {
+    "electron": "^7.1.5"
+  }
 }
