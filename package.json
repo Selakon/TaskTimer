@@ -1,0 +1,23 @@
+{
+  "name": "task-timer",
+  "version": "1.0.0",
+  "description": "tool to control the time we dedicate to a certain task",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Selakon/TaskTimer.git"
+  },
+  "keywords": [
+    "task",
+    "timer"
+  ],
+  "author": "Selakon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Selakon/TaskTimer/issues"
+  },
+  "homepage": "https://github.com/Selakon/TaskTimer"
+}
